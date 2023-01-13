@@ -1,0 +1,12 @@
+
+class ProductModel{
+String name, description, price, shortDescription, weight, imgUrl;
+
+ProductModel({
+    required this.name,
+    required this.description,
+    required this.price,
+    required this.shortDescription,
+    required this.weight,
+    required this.imgUrl});
+}
