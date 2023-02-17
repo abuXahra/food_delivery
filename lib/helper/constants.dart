@@ -16,3 +16,6 @@ const String cat1Img = 'images/category/bugger1.png';
 const String cat2Img = 'images/category/fries1.png';
 const String cat3Img = 'images/category/pizza1.png';
 const String cat4Img = 'images/category/salad1.png';
+
+//Product images:
+const String pizza = 'images/coconutrice.jpg';

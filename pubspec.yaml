@@ -65,6 +65,9 @@ flutter:
     - images/
     - images/burger/
     - images/category/
+    - images/fries/
+    - images/pizza/
+    - images/salad/
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
